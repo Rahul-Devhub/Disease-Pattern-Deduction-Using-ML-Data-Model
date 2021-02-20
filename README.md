@@ -1,4 +1,4 @@
-## DISEASE PATTERN DEDUCTION USING MACHINE LEARNING DATA MODEL
+## Tensorflow-Machine-Learning-Model-Binary-Disease-Pattern-Dataset
 
 Binary pattern that are frequently co-regulated. Such matrices provide expression values for given disease detection based on extraction situations (the lines) and given genes (columns). 
 The widely wide-spread itemset (sets of columns) extraction method allows to process tough instances (millions of lines, thousands of columns) furnished that statistics is now not too dense. 
